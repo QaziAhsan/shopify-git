@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Cardo;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/cardo/cardo_n4.eebb245e383be6550785a657b25f51c2b83d7e78.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d69e91a24abd50ffa136a66d7292646beb9719f66f750403aa0deb35c1c63828") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/cardo/cardo_n4.5873ec3470fadfb2463a972a55c13c82fcea3051.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=ea10a38ee031fd231217d5f06b33187ba3992cf4f8ee93c75a9aaf23d5655959") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4c6d5c3fb2ec97ff656223586d22152a479c5ae28f803bf1bd4e13dd6a24fe87") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=f1bbd8f8ed89a113fd5eeffb496d6a7d855f922dc25d24a05ee6bc4a24f7827b") format("woff");
+}
+
+@font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n4.7fd0287595be20cd5a683102bf49d073b6abf144.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=4c6d5c3fb2ec97ff656223586d22152a479c5ae28f803bf1bd4e13dd6a24fe87") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n4.a26a334a0852627a5f36b195112385b0cd700077.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=f1bbd8f8ed89a113fd5eeffb496d6a7d855f922dc25d24a05ee6bc4a24f7827b") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: Cardo;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/cardo/cardo_n7.d02b7fb13fc5aac90b5334d99f92017ede2099f6.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=d44d4054c704852899451f47f949d58a1b880a47e76387d2271caaff836c45ec") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/cardo/cardo_n7.2bbbb0d9819b97cd025c56641e4eb6435f1c07d0.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=3bd60effbbded0e0b9709f6658eb6fb917b341c35d88c384edc384d17ff56d32") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n5.972a96b7a049f12c89d6d1cd0e1b6c9211f7ba14.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=bc3d82e898e1ba09dcf47a45bb5e7e077027471fea68a56582ec362139ba9eb1") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=78c4e993aebb92c5d4ce58193cfcf180a19c9e6ab1d2d621bc4bcbda38284b9c") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_i4.f1583d9f457b68e44fbda187a48b4096d547d7f4.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=0fb4230b164daec70a433aceadc19cfe74dea3483cdb224d34e00061474179fd") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_i4.67fb53a3e0351125941146246183577ae8d8bf23.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=ea1f2c4acb6fad1c63a0138dd525c010ba3bbc2538329c0787bc738c8fb952bc") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_i5.2d1a6d537e5b485482d6bcca34a56cc10d441a55.woff2?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=3c930e5f74a2aa34e3fc0fb6bc578c01eeab48fc9d97428c071d7565ce031f42") format("woff2"),
+       url("//www.bloomdenver.com/cdn/fonts/avenir_next/avenirnext_i5.fcfa37c68ca483c41031623bfae4701d99bb4b95.woff?h1=Ymxvb21kZW52ZXIuY29t&h2=Ymxvb21kZW52ZXIuYWNjb3VudC5teXNob3BpZnkuY29t&hmac=8c970473150ac44ea50c7eb26b1569801d8b8e689ca1e61a566d7a3f05019593") format("woff");
+}
+
